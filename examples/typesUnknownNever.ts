@@ -1,5 +1,10 @@
 // The Unknown Type
 
+/*
+ * O Tipo Unknown aceita que seja passado qualquer tipo
+ * Não é uma boa prática, pois pode gerar erros inesperados
+*/ 
+
 let userInput: unknown;
 let userName: string;
 
