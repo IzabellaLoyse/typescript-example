@@ -39,3 +39,8 @@
 ## 📌 Generics
 
 - Exemplos da utilização do **Generics**, **Generics Extendidos** e com **Valor Default** no arquivo `generics.ts`
+
+## 📌 Types Utilities
+
+- Exemplos de **Tipos de Utilitários**(Readonly, Partial, Pick, Omit)
+  no arquivo `typesUtilities.ts`
