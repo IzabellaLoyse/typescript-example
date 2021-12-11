@@ -3,7 +3,7 @@
 /*
  * São um conjunto de dados para descrever a estrutura de um objeto
  * Podem ser extendidas
- * São para coisas complexas
+ * São para descrições de objetos complexas
  */
 
 interface Game {
