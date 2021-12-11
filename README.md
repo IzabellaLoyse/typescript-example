@@ -21,3 +21,7 @@
 ## 📌 Class
 
 - Exemplos de Classes, Classe Abstrata e Modificadores de Acesso no arquivo `class.ts`
+
+## 📌 Interface
+
+- Exemplos de Interfaces, Interfaces implementadas com Classe e Extendidas `interface.ts`
