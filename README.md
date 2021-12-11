@@ -10,6 +10,11 @@
 
 - Exemplos de Tipos como **Union Types**, **Literal Types**, **Type Aliases** no arquivo `typesUnionLiteralAliases.ts`
 
+## 📌 Types Unknown and Never
+
+- Exemplos de Tipos como **Type Unknown** e **Type Never**  no arquivo `typesUnknownNever.ts`
+
+
 ## 📌 Functions
 
 - Exemplos dos tipos de Funções e seus retornos no arquivo `functions.ts`
