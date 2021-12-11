@@ -35,3 +35,7 @@
 
 - Exemplos das diferenças entre **Type Alias** e **Interfaces** no arquivo
   `typeAliasInterface.ts`
+
+## 📌 Generics
+
+- Exemplos da utilização do **Generics**, **Generics Extendidos** e com **Valor Default** no arquivo `generics.ts`
