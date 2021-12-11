@@ -79,8 +79,7 @@ jorge.setLevel = 200;
 console.log(jorge.getLevel);
 
 
-// Abstract Class => não se pode criar objetos a partir dela mas pode ser 
-//extendendida
+// Abstract Class => não se pode criar objetos a partir dela mas pode ser extendendida
 
 abstract class Abstract {
   constructor(public name: string) {}

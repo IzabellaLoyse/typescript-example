@@ -4,15 +4,18 @@
 
 ## 📌 Types Basics
 
-- Exemplos de Tipos Básicos(number, boolean, string, object, array, enum, any) no arquivo `typesBasics.ts`
+- Exemplos de Tipos Básicos(number, boolean, string, object, array, enum, any)
+  no arquivo `typesBasics.ts`
 
 ## 📌 Types Union, Literal and Aliases
 
-- Exemplos de Tipos como **Union Types**, **Literal Types**, **Type Aliases** no arquivo `typesUnionLiteralAliases.ts`
+- Exemplos de Tipos como **Union Types**, **Literal Types**, **Type Aliases**
+  no arquivo `typesUnionLiteralAliases.ts`
 
 ## 📌 Types Unknown and Never
 
-- Exemplos de Tipos como **Type Unknown** e **Type Never** no arquivo `typesUnknownNever.ts`
+- Exemplos de Tipos como **Type Unknown** e **Type Never** no arquivo
+  `typesUnknownNever.ts`
 
 ## 📌 Functions
 
@@ -20,8 +23,15 @@
 
 ## 📌 Class
 
-- Exemplos de Classes, Classe Abstrata e Modificadores de Acesso no arquivo `class.ts`
+- Exemplos de **Classes**, **Classe Abstrata** e **Modificadores de Acesso**
+  no arquivo `class.ts`
 
 ## 📌 Interface
 
-- Exemplos de Interfaces, Interfaces implementadas com Classe e Extendidas `interface.ts`
+- Exemplos de **Interfaces**, **Interfaces implementadas com Classes** e
+  **Interfaces Extendidas** no arquivo `interface.ts`
+
+## 📌 Diferenças do Type Alias e das Interfaces
+
+- Exemplos das diferenças entre **Type Alias** e **Interfaces** no arquivo
+  `typeAliasInterface.ts`
